@@ -1,0 +1,117 @@
+body{
+  color: #16213E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Beautiful Dream', sans-serif;
+
+  }
+
+h1{
+color:#16213E;
+  margin-top: 100px;
+  font-family: 'Beautiful Dream', sans-serif;
+  }
+
+h2{
+  color:#EE6983;
+  font-family: 'Ranade', sans-serif;
+  padding-bottom: 10px;
+}
+h3{
+  color:#EE6983;
+  font-family: 'Ranade', sans-serif;
+}
+
+p{
+  line-height: 2;
+}
+hr{
+  border:dotted #F675A8 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a:hover{
+  color: #FEFBF6;
+}
+
+a{
+  color: #495C83;
+  font-family: 'Ranade', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.contact-message{
+  margin: 40px auto;
+}
+.top-container{
+  background-color: #B9FFF8;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin: 100px 0;
+  font-family: 'Ranade', sans-serif;
+
+}
+.bottom-container{
+  background-color: #B9FFF8;
+  padding: 50px 0 20px;
+  font-family: 'Ranade', sans-serif;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.web1{
+  float: right;
+  margin-right:30px;
+}
+.web2{
+  float: left;
+  margin-right:30px;
+
+}
+.btn {
+  background: #3B9AE1;
+  background-image: -webkit-linear-gradient(top, #3B9AE1, #59CE8F);
+  background-image: -moz-linear-gradient(top, #3B9AE1, #59CE8F);
+  background-image: -ms-linear-gradient(top, #3B9AE1, #59CE8F);
+  background-image: -o-linear-gradient(top, #3B9AE1, #59CE8F);
+  background-image: linear-gradient(to bottom, #3B9AE1, #59CE8F);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Ranade', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.copyright{
+  color:  #4C3A51;
+  padding: 20px 0;
+}
